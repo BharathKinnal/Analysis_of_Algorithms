@@ -6,8 +6,16 @@ This paper presents a modified scheme for run length encoding. A significant imp
 
 **References:**
 
-  * [Run Length Encoding - Wikipedia](http://en.wikipedia.org/wiki/Run-length_encoding)
-  * [Run Length Encoding - GeeksForGeeks](http://www.geeksforgeeks.org/run-length-encoding/)
-  * [Modified Run Length Encoding - IEEE Paper](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6148417)
+  * [Run Length Encoding - Wikipedia.](http://en.wikipedia.org/wiki/Run-length_encoding)
+  * [Run Length Encoding - GeeksForGeeks.](http://www.geeksforgeeks.org/run-length-encoding/)
+  * [Modified Run Length Encoding - IEEE Paper.](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6148417)
 
-**Authors: Asjad Amin, Haseeb Ahmad Qureshi, Muhammad Junaid, Muhammad Yasir Habib, Waqas Anjum.**
+**Authors:**
+
+  * Asjad Amin
+  * Haseeb Ahmad Qureshi
+  * Muhammad Junaid
+  * Muhammad Yasir Habib
+  * Waqas Anjum
+  
+*This project is a direct implementation of the IEEE Paper after a through Analysis of the Algorithm and related concepts.*
