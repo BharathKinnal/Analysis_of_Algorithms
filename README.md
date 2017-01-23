@@ -36,4 +36,4 @@ This paper presents a modified scheme for run length encoding. A significant imp
   * Muhammad Yasir Habib
   * Waqas Anjum
   
-*This project is a direct implementation of the IEEE Paper after a through Analysis of the Algorithm and related concepts.*
+*This project is a direct implementation of the IEEE Paper after a thorough Analysis of the Algorithm and related concepts.*
