@@ -37,3 +37,4 @@ This paper presents a modified scheme for run length encoding. A significant imp
   * Waqas Anjum
   
 *This project is a direct implementation of the IEEE Paper after a thorough Analysis of the Algorithm and related concepts.*
+*The data compression implemented was for any bit stream, and not for character (text) data only*
